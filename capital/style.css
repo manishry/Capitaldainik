@@ -68,3 +68,14 @@
             margin: 0 auto;
             display: table;
         }
+       .Literature p a:hover{
+        text-decoration: none;
+       }
+       #categories_block_left ul.trees{
+        float: right;
+        position: relative;
+        width: 75%;
+       }
+       body{
+        overflow-x: hidden;
+       }

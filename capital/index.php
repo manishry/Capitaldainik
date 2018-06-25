@@ -62,11 +62,13 @@
 
 
 <body>
-	<div class="top-header" style="background-color:#3e3e58;">
+
+  <div class="top-header" style="background-color:#3e3e58;">
 		<div class="container">
 			<div class="" style="text-align: left;">Date and time</div>
 			<div class="" style="text-align: right;">social media</div>
 		</div>
+
 	</div>
 	<div class="middle-header">
 		<div class="container">
@@ -341,7 +343,8 @@
       <div class="col-md-4">
         <div class="head-news">
     <img src="images/lake.jpg" width="100%">
-   <div class="bottom-left-news"><a href="#"><span class="breaking-title-highlight">रहस्यमय तिलिचो</span></a></div></div><br>
+   <div class="bottom-left-news"><a href="#"><span class="breaking-title-highlight">रहस्यमय तिलिचो</span></a>
+   </div></div><br>
    <p class="news-titles" style="font-weight: 550; font-size: 15px;"><a href="">विकासले जतिजति शिखर चुम्दै जान्छ, मानिस पनि उतिउति व्यस्त हुँदै जान्छ। व्यस्त जीवनबाट केही समयका</a> </p>
    <ul style="font-size: 15px; margin-top: 40px; font-weight: 550;">
      <li>नेपाली कांग्रेसका जिल्ला सभापतिहरूको </li>
@@ -1111,7 +1114,91 @@
   </div>
 </div>
 
-<div class="menu-bar" style="background-color: #75604b; margin-top: 5px;">
+<div class="container">
+  <div> <center><span class="breaking-title" style="float: center; margin-top: 32px; 
+       background-color: #345846; font-size: 30px;">साहित्य</span>
+       </center></div>
+   
+   <div class="row" style="margin-top: 15px;">
+     <div class="col-md-4">
+       <img src="images/img10.jpg" width="100%">
+       <div class="Literature">
+         <p style="font-weight: 550; font-size: 17px; margin-left: 10px; margin-top: 15px;">
+          <a href="#">कथा : सान्नानीका सपना </a></p>
+      
+       </div>
+       <p style="margin-top: 10px;  margin-left: 10px;">
+        दिपक अभिमन्यू उनलाई हेर्न र उनीसंग गफ्फिन मात्रै भए नि उनको चिया पसलमा पुग्थे राम प्रसाद ।   "साहुनी .... चिया खाम न" प्रत्येक दिनको सूर्योदयको पहिलो झुल्कोसँगै उनी सान्नानीको चिया पसलमा हाजिर भईहाल्थे। उनलाई साहुनीका खिल्खिलाएका र बेला बखत ...
+       </p>
+     </div>
+
+
+     <div class="col-md-4">
+        <p class="news-titles-bar" style="padding-top: 20px; margin-left: 15px; margin-right: 40px;">
+        <a href="#">असारमा बजेट सक्ने हतारो </a> </p>
+          <div>
+            <span class="line-style-add" style="margin-top: 10px;"></span>
+           </div>
+         <p class="news-titles-bar" style="padding-top: 20px; margin-left: 15px; margin-right: 40px;">
+        <a href="#">असारमा बजेट सक्ने हतारो</a> </p>
+           <div>
+            <span class="line-style-add" style="margin-top: 10px;"></span>
+           </div>
+
+         <p class="news-titles-bar" style="padding-top: 20px; margin-left: 15px; margin-right: 40px;">
+        <a href="#">असारमा बजेट सक्ने हतारो</a> </p>
+           <div>
+            <span class="line-style-add" style="margin-top: 10px;"></span>
+           </div>
+
+         <p class="news-titles-bar" style="padding-top: 20px; margin-left: 15px; margin-right: 40px;">
+        <a href="#">असारमा बजेट सक्ने हतारो</a> </p>
+           <div>
+            <span class="line-style-add" style="margin-top: 10px;"></span>
+           </div>
+          
+         <p class="news-titles-bar" style="padding-top: 20px; margin-left: 15px; margin-right: 40px;">
+        <a href="#">असारमा बजेट सक्ने हतारो</a> </p>
+           <div>
+            <span class="line-style-add" style="margin-top: 10px;"></span>
+           </div>
+
+         <p class="news-titles-bar" style="padding-top: 20px; margin-left: 15px; margin-right: 40px;">
+        <a href="#">असारमा बजेट सक्ने हतारो</a> </p>
+            <div>
+            <span class="line-style-add" style="margin-top: 10px;"></span>
+           </div>
+
+         <p class="news-titles-bar" style="padding-top: 20px; margin-left: 15px; margin-right: 40px;">
+        <a href="#">असारमा बजेट सक्ने हतारो</a> </p>
+           <div>
+            <span class="line-style-add" style="margin-top: 10px;"></span>
+           </div>
+
+           <p class="news-titles-bar" style="padding-top: 20px; margin-left: 15px; margin-right: 40px;">
+        <a href="#">असारमा बजेट सक्ने हतारो</a> </p>
+     </div>
+     <div class="col-md-4">
+       <img src="images/img11.jpg" width="100%">
+       
+       <div class="Literature">
+         <p style="font-weight: 550; font-size: 17px; margin-left: 10px; margin-top: 15px;">
+          <a href="#">यो दिन बित्थामा लामो भएको होइन ! </a></p>
+      
+       </div>
+       <p style="margin-top: 10px;  margin-left: 10px;">
+        स्वप्निमे अमुक पहाडजस्तै पद्मासनमा अडिएका छौँ हामी र उडेर आएको छ चिवर  हाम्रो कायामा यो मौनतामा घण्टाघरको सुईले खेप्नैछ अझै लामो परिधि पेण्डुलम ठेल्दै प्रत्येक घण्टाको अन्तरालमा रुप्चन काकाले बजाउनैछ  थाहा संगीत साथी ! आजको दिन...
+       </p>
+     </div>
+   </div>
+
+</div>
+
+<div class="container" style="margin-top: 15px;">
+  <img src="images/advertise10.jpg" width="100%">
+</div>
+
+<div class="menu-bar" style="background-color: #75604b; margin-top: 10px;">
   <div class="row">
   <div class="container">
     
@@ -1129,7 +1216,27 @@
 
 </div>
 </div>
+<div style="margin-top: 0px; background-color: #e4dddd;">
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+        <p style="font-size: 28; margin-top: 34px; margin-left: -35px; font-weight: 600">Hamro team</p>
+       
+    </div>
+     <div class="col-md-3">
+       <p style="font-size: 28; margin-top: 34px; margin-left: -35px; font-weight: 600">Social Media</p>
+     </div>
+     <div class="col-md-3">
+       <p style="font-size: 28; margin-top: 34px; margin-left: -35px; font-weight: 600">Contact Us</p>
+       <img src="images/logo.jpg" width="100%">
+     </div>
+  </div>
+</div>
+</div>
+<div style="margin-top: 10px; background-color: #1e4036; padding: 6px; margin-top: -1px;">
+  <center><p style="font-size: 18px; color: white; margin-top: 3px; ">Copyright © 2017 - Capital Dainik.</p></center>
+</div>
 
-<div style="margin-bottom: 40px;"></div>
+<div style="margin-bottom: 10px;"></div>
 </body>
 </html>
