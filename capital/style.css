@@ -1,0 +1,70 @@
+ .politic-news p a:hover{
+        text-decoration: none;
+       }
+       .news-bar a{
+        font-size: 16px;
+        font-weight: 600;
+        color: black;
+       }
+       .news-bar a:hover{
+        text-decoration: none;
+       }
+        .line-style{
+          background: #414182;
+            padding: 1px 380px;
+            margin: 0 auto;
+            display: table;
+        }
+        .bottom-left-news a{
+          position: absolute;
+          bottom: 0px;
+          left: 1px;
+          font-size: 18px;
+          font-weight: 548;
+          color: white;
+         }
+     .bottom-left-news a:hover {
+          text-decoration: none;
+       }
+        .breaking-title-highlight{
+          background: #de1a34;
+            color: #fff;
+            padding: 5px 7px;
+            font-size: 20px;
+            margin: 0 auto;
+            display: table;
+        }
+        .news-titles a{
+         
+          color: black;
+          font-size: 17px;
+        }
+        .news-titles a:hover{
+          text-decoration: none;
+          color: black;
+        }
+    .breaking-title-add{
+          background: #3a3a5f;
+            color: #fff;
+            padding: 10px 147px;
+            font-size: 20px;
+            margin: 0 auto;
+            display: table;
+        }
+        .news-titles-bar a{
+          font-weight: 550;
+          font-size: 17px;
+
+
+
+        }
+        .news-titles-bar a:hover{
+         text-decoration: none;
+
+        }
+        .line-style-add{
+            background: #f5f5fd;
+            padding: 1px 164px;
+            margin: 0 auto;
+            display: table;
+        }
